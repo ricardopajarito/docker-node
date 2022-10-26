@@ -1,0 +1,21 @@
+{
+  "lead_id":"Cj0KCQjwit_8BRCoARIsAIx3Rj7g-AeL6z35IWb6VYiZUygtTfwD3hDlgSGmY-XTTlK3lfV1wcuIwIAaAmMxEALw_wcB",
+  "campaign_id":123456,
+  "gcl_id":"Cj0KCQjwit_8BRCoARIsAIx3Rj7g-AeL6z35IWb6VYiZUygtTfwD3hDlgSGmY-XTTlK3lfV1wcuIwIAaAmMxEALw_wcB",
+  "user_column_data": [
+    {
+      "column_name":"Full Name",
+      "string_value":"John Doe",
+      "column_id": "FULL_NAME"
+    },
+    {
+      "column_name": "User Phone",
+      "string_value":"+11234567890",
+      "column_id":"PHONE_NUMBER"
+    }
+  ],
+  "api_version":"1.0",
+  "form_id":1234,
+  "Google_key":"xfdgdgsgfchgvhgfchg",
+  "is_test":true
+}
